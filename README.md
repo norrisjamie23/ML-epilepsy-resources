@@ -1,5 +1,5 @@
-# ML-epilepsy-resources
-Resources that have helped me as a PhD student in machine learning for epilepsy
+# Machine Learning for Epilepsy resources
+Resources that have helped me as a PhD student in Machine Learning for epilepsy
 
 ## Machine Learning
 [Conference deadlines](https://aideadlin.es)
