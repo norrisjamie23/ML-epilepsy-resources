@@ -13,3 +13,6 @@ Resources that have helped me as a PhD student in Machine Learning for epilepsy
 
 ## Computational Neuroscience
 [Neuromatch Academy](https://academy.neuromatch.io)
+
+## Datasets
+[Open Datasets in Electrophysiology](https://github.com/openlists/ElectrophysiologyData)
