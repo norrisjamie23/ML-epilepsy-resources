@@ -22,5 +22,7 @@ Resources that have helped me as a PhD student in Machine Learning for epilepsy
 ## Conferences
 [Conference on 
 Health, Inference, and Learning](https://chilconference.org)
+
 [Machine Learning for Healthcare](https://www.mlforhc.org)
+
 [Machine Learning for Health (ML4H)](https://ml4h.cc/2023/)
