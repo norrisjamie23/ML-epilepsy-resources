@@ -8,6 +8,8 @@ Resources that have helped me as a PhD student in Machine Learning for epilepsy
 
 [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf)
 
+[TRIPOD+AI](https://www.bmj.com/content/385/bmj-2023-078378)
+
 ## ML for Healthcare
 [Conference deadlines](https://openlifescience-ai.github.io/ai-deadlines/)
 
@@ -16,3 +18,9 @@ Resources that have helped me as a PhD student in Machine Learning for epilepsy
 
 ## Datasets
 [Open Datasets in Electrophysiology](https://github.com/openlists/ElectrophysiologyData)
+
+## Conferences
+[Conference on 
+Health, Inference, and Learning](https://chilconference.org)
+[Machine Learning for Healthcare](https://www.mlforhc.org)
+[Machine Learning for Health (ML4H)](https://ml4h.cc/2023/)
