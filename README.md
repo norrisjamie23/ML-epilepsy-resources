@@ -19,7 +19,7 @@ Resources that have helped me as a PhD student in Machine Learning for epilepsy
 ## Datasets
 [Open Datasets in Electrophysiology](https://github.com/openlists/ElectrophysiologyData)
 
-## Conferences
+## Conferences
 [Conference on 
 Health, Inference, and Learning](https://chilconference.org)
 [Machine Learning for Healthcare](https://www.mlforhc.org)
