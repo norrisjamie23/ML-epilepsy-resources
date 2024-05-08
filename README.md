@@ -27,5 +27,5 @@ Health, Inference, and Learning](https://chilconference.org)
 
 [Machine Learning for Health (ML4H)](https://ml4h.cc/2023/)
 
-## My papers
+## My papers
 [Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer](https://arxiv.org/abs/2403.20324)
